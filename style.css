@@ -1,0 +1,16 @@
+h2{
+    font-weight: 700;
+}
+
+h1{
+    font-weight: 900;
+    font-style: italic;
+}
+
+li{
+    color: cadetblue;
+}
+
+a{
+    color: green;
+}
